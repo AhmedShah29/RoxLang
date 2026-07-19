@@ -4,7 +4,7 @@ A high level programming language with full control and customizability
 simple flowchart
 ```mermaid
 graph TD
-    rox["rox (CLI)"]
+    rox["Rox"]
     rox --> compiler["Compiler — rcc"]
     rox --> vm["VM/Interpreter"]
     rox --> rkm["rkm — package manager"]
