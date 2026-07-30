@@ -1,6 +1,10 @@
+<img src="https://github.com/AhmedShah29/RoxLang/blob/main/assets/Rox_logo.jpg?raw=true" align="right" width="80" style="margin-right: 15px; border-radius: 5px" alt="RoxLang Logo">
+
 # RoxLang
 A high level programming language with control and customizability 
 > note this is still in design, check the [wiki](https://github.com/AhmedShah29/RoxLang/wiki) for the latest updates.
+
+<br clear="left"/>
 
 ### Ecosystem & Architecture
 ```mermaid
