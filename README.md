@@ -1,4 +1,4 @@
-<img src="https://github.com/AhmedShah29/RoxLang/blob/main/assets/Rox_logo.jpg?raw=true" align="right" width="80" style="margin-right: 15px; border-radius: 5px" alt="RoxLang Logo">
+<img src="https://github.com/AhmedShah29/RoxLang/blob/main/assets/Rox_logo.jpg?raw=true" align="right" width="75" style="margin-right: 15px; border-radius: 5px" alt="RoxLang Logo">
 
 # RoxLang
 A high level programming language with control and customizability 
